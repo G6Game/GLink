@@ -1,0 +1,32 @@
+{
+  "categoryname": "足球推介",
+  "siteid": 321,
+  "sitename": "新焦点",
+  "rating": 1,
+  "priority": 1,
+  "thumbnail": "http://www.domain.com/image.png",
+  "alphabet": "Z",
+  "active": true,
+  "isenabled" : true,
+  "siteurls" : [
+    {
+      "title": "新焦点会员一站",
+      "href": "http://nf1088.com/",
+      "type": "client",
+      "method": "jsredirect"
+    },
+    {
+      "title": "新焦点代理一站",
+      "href": "http://agnf0088.com/",
+      "type": "agent",
+      "method": "normal"
+    },
+    {
+      "title": "新焦点查数一站",
+      "href": "http://adnf0088.com/",
+      "type": "audit",
+      "method": "headredirect"
+    }
+  ],
+  "": ""
+}
